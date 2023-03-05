@@ -14,7 +14,6 @@
 <a href="https://twitter.com/numanshaikh25" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="numanshaikh25" height="30" width="40" /></a>
 
 <a href="https://www.leetcode.com/numanshaikh25" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="numanshaikh25" height="30" width="40" /></a>
-  <a href="https://linkedin.com/in/numan-shaikh-62ab441a5" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="numan-shaikh-62ab441a5" height="30" width="40" /></a>
 <a href="https://auth.geeksforgeeks.org/user/numanshaikh25/profile" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="numanshaikh25/profile" height="30" width="40" /></a>
 </p>
 
