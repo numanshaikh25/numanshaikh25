@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Blockchain Development**
 
-- 💬 Ask me about **React, Django, Django Rest Framework**
+- 💬 Ask me about **React, Next.js, MERN, Django, Django Rest Framework, FastAPI, Databases, Cloud, Devops**
 
 - 📫 How to reach me **numanshaikh25@gmail.com**
 
